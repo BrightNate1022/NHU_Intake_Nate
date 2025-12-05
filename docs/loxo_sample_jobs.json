@@ -1,0 +1,465 @@
+﻿{
+    "current_page":  1,
+    "total_pages":  388,
+    "per_page":  5,
+    "total_count":  1937,
+    "results":  [
+                    {
+                        "id":  395003,
+                        "agency":  {
+                                       "id":  4134,
+                                       "name":  "Now Hiring You, LLC"
+                                   },
+                        "title":  ".Net Developer",
+                        "published_name":  "",
+                        "macro_address":  "Pompano Beach, USA",
+                        "company":  {
+                                        "id":  16790906,
+                                        "name":  "Vertical Computer Systems, Inc.",
+                                        "hidden":  false,
+                                        "logo_large_url":  "/logos/large/missing.png",
+                                        "logo_thumb_url":  "/logos/thumb/missing.png"
+                                    },
+                        "created_at":  "2008-11-05T19:59:28.000Z",
+                        "published":  false,
+                        "published_at":  "2008-11-05T19:59:28.000Z",
+                        "address":  "1591 E. Atlantic Blvd. #103",
+                        "city":  "Pompano Beach",
+                        "state_code":  null,
+                        "zip":  "33060",
+                        "country_code":  "US",
+                        "owners":  [
+                                       {
+                                           "id":  470276,
+                                           "position":  1,
+                                           "name":  "Marko Evans",
+                                           "email":  "marko@nowhiringu.com",
+                                           "phone":  "5617026602",
+                                           "user_id":  120891,
+                                           "avatar_thumb_url":  "https://s3.us-east-1.amazonaws.com/loxo-images-production/users/avatars/000/120/891/thumb/data.png?1571698406",
+                                           "avatar_original_url":  "https://s3.us-east-1.amazonaws.com/loxo-images-production/users/avatars/000/120/891/original/data?1571698406",
+                                           "job_owner_type_id":  15903
+                                       }
+                                   ],
+                        "contacts":  [
+                                         {
+                                             "id":  233972,
+                                             "position":  1,
+                                             "profile_picture_thumb_url":  "/profile_pictures/thumb/missing.png",
+                                             "name":  "support@verticalc.com",
+                                             "title":  "N/A",
+                                             "person_id":  25145399,
+                                             "emails":  [
+                                                            {
+                                                                "id":  19436278,
+                                                                "value":  "support@verticalc.com",
+                                                                "email_type_id":  27704
+                                                            }
+                                                        ],
+                                             "phones":  [
+
+                                                        ],
+                                             "job_contact_type_id":  15904
+                                         }
+                                     ],
+                        "salary":  null,
+                        "salary_min":  null,
+                        "salary_max":  null,
+                        "salary_type_id":  1,
+                        "salary_currency_id":  1,
+                        "bonus":  null,
+                        "bonus_payment_type_id":  null,
+                        "bonus_type_id":  null,
+                        "equity":  null,
+                        "equity_percent":  null,
+                        "equity_type_id":  null,
+                        "job_type":  {
+                                         "id":  12740,
+                                         "name":  "Full Time"
+                                     },
+                        "status":  {
+                                       "id":  8990,
+                                       "name":  "Inactive"
+                                   },
+                        "categories":  [
+
+                                       ],
+                        "category":  null,
+                        "company_hidden":  true,
+                        "updated_at":  "2021-11-23T09:52:32.776Z",
+                        "public_url":  "https://app.loxo.co/job/NDEzNC01ZTl5YjJzdGo5YzM0dzV1",
+                        "custom_text_1":  "13919:Information Technology",
+                        "filled_at":  null,
+                        "opened_at":  "2008-11-05T19:59:28.000Z",
+                        "published_end_date":  null,
+                        "remote_work_allowed":  false,
+                        "fee":  null,
+                        "fee_type_id":  null,
+                        "fee_currency_id":  null
+                    },
+                    {
+                        "id":  395430,
+                        "agency":  {
+                                       "id":  4134,
+                                       "name":  "Now Hiring You, LLC"
+                                   },
+                        "title":  ".NET Developer 88458",
+                        "published_name":  "",
+                        "macro_address":  "Virginia Beach, USA",
+                        "company":  {
+                                        "id":  16791105,
+                                        "name":  "Well Point",
+                                        "hidden":  false,
+                                        "logo_large_url":  "/logos/large/missing.png",
+                                        "logo_thumb_url":  "/logos/thumb/missing.png"
+                                    },
+                        "created_at":  "2014-12-10T02:00:38.000Z",
+                        "published":  false,
+                        "published_at":  "2014-12-10T02:00:38.000Z",
+                        "address":  "277 Bendix Rd",
+                        "city":  "Virginia Beach",
+                        "state_code":  null,
+                        "zip":  "23452",
+                        "country_code":  "US",
+                        "owners":  [
+                                       {
+                                           "id":  470703,
+                                           "position":  1,
+                                           "name":  "Marko Evans",
+                                           "email":  "marko@nowhiringu.com",
+                                           "phone":  "5617026602",
+                                           "user_id":  120891,
+                                           "avatar_thumb_url":  "https://s3.us-east-1.amazonaws.com/loxo-images-production/users/avatars/000/120/891/thumb/data.png?1571698406",
+                                           "avatar_original_url":  "https://s3.us-east-1.amazonaws.com/loxo-images-production/users/avatars/000/120/891/original/data?1571698406",
+                                           "job_owner_type_id":  15903
+                                       }
+                                   ],
+                        "contacts":  [
+                                         {
+                                             "id":  234395,
+                                             "position":  1,
+                                             "profile_picture_thumb_url":  "/profile_pictures/thumb/missing.png",
+                                             "name":  "Generic Contact",
+                                             "title":  "Generic Contact",
+                                             "person_id":  25153926,
+                                             "emails":  [
+
+                                                        ],
+                                             "phones":  [
+
+                                                        ],
+                                             "job_contact_type_id":  15904
+                                         }
+                                     ],
+                        "salary":  "100000 Per Year",
+                        "salary_min":  "100000",
+                        "salary_max":  null,
+                        "salary_type_id":  1,
+                        "salary_currency_id":  1,
+                        "bonus":  null,
+                        "bonus_payment_type_id":  null,
+                        "bonus_type_id":  null,
+                        "equity":  null,
+                        "equity_percent":  null,
+                        "equity_type_id":  null,
+                        "job_type":  {
+                                         "id":  12740,
+                                         "name":  "Full Time"
+                                     },
+                        "status":  {
+                                       "id":  8990,
+                                       "name":  "Inactive"
+                                   },
+                        "categories":  [
+
+                                       ],
+                        "category":  null,
+                        "company_hidden":  true,
+                        "updated_at":  "2021-11-23T09:53:14.980Z",
+                        "public_url":  "https://app.loxo.co/job/NDEzNC05ZWlodmZyNjQ3ajdxOTJ5",
+                        "custom_text_1":  "13919:Information Technology",
+                        "filled_at":  null,
+                        "opened_at":  "2014-12-10T02:00:38.000Z",
+                        "published_end_date":  null,
+                        "remote_work_allowed":  false,
+                        "fee":  null,
+                        "fee_type_id":  null,
+                        "fee_currency_id":  null
+                    },
+                    {
+                        "id":  394344,
+                        "agency":  {
+                                       "id":  4134,
+                                       "name":  "Now Hiring You, LLC"
+                                   },
+                        "title":  "137",
+                        "published_name":  "",
+                        "macro_address":  "USA",
+                        "company":  {
+                                        "id":  16791111,
+                                        "name":  "Orphan Company",
+                                        "hidden":  false,
+                                        "logo_large_url":  "/logos/large/missing.png",
+                                        "logo_thumb_url":  "/logos/thumb/missing.png"
+                                    },
+                        "created_at":  "2013-06-07T10:18:45.000Z",
+                        "published":  false,
+                        "published_at":  "2013-06-07T10:18:45.000Z",
+                        "address":  null,
+                        "city":  null,
+                        "state_code":  null,
+                        "zip":  null,
+                        "country_code":  "US",
+                        "owners":  [
+                                       {
+                                           "id":  469617,
+                                           "position":  1,
+                                           "name":  "Albert Gil",
+                                           "email":  "agil@nowhiringu.com",
+                                           "phone":  null,
+                                           "user_id":  144862,
+                                           "avatar_thumb_url":  "/profile_pictures/thumb/missing.png",
+                                           "avatar_original_url":  "/profile_pictures/thumb/missing.png",
+                                           "job_owner_type_id":  15903
+                                       }
+                                   ],
+                        "contacts":  [
+                                         {
+                                             "id":  233314,
+                                             "position":  1,
+                                             "profile_picture_thumb_url":  "/profile_pictures/thumb/missing.png",
+                                             "name":  "Dave Larson",
+                                             "title":  "N/A",
+                                             "person_id":  25144591,
+                                             "emails":  [
+                                                            {
+                                                                "id":  19435530,
+                                                                "value":  "davelmegapawn@cfl.rr.com",
+                                                                "email_type_id":  27704
+                                                            }
+                                                        ],
+                                             "phones":  [
+
+                                                        ],
+                                             "job_contact_type_id":  15904
+                                         }
+                                     ],
+                        "salary":  null,
+                        "salary_min":  null,
+                        "salary_max":  null,
+                        "salary_type_id":  1,
+                        "salary_currency_id":  1,
+                        "bonus":  null,
+                        "bonus_payment_type_id":  null,
+                        "bonus_type_id":  null,
+                        "equity":  null,
+                        "equity_percent":  null,
+                        "equity_type_id":  null,
+                        "job_type":  {
+                                         "id":  12740,
+                                         "name":  "Full Time"
+                                     },
+                        "status":  {
+                                       "id":  8990,
+                                       "name":  "Inactive"
+                                   },
+                        "categories":  [
+
+                                       ],
+                        "category":  null,
+                        "company_hidden":  true,
+                        "updated_at":  "2021-11-23T09:51:19.398Z",
+                        "public_url":  "https://app.loxo.co/job/NDEzNC11ZGRtb3AzbnR0cWZ1OGx4",
+                        "custom_text_1":  null,
+                        "filled_at":  null,
+                        "opened_at":  "2013-06-07T10:18:45.000Z",
+                        "published_end_date":  null,
+                        "remote_work_allowed":  false,
+                        "fee":  null,
+                        "fee_type_id":  null,
+                        "fee_currency_id":  null
+                    },
+                    {
+                        "id":  394347,
+                        "agency":  {
+                                       "id":  4134,
+                                       "name":  "Now Hiring You, LLC"
+                                   },
+                        "title":  "140",
+                        "published_name":  "",
+                        "macro_address":  "USA",
+                        "company":  {
+                                        "id":  16789559,
+                                        "name":  "City of Pompano Beach",
+                                        "hidden":  false,
+                                        "logo_large_url":  "/logos/large/missing.png",
+                                        "logo_thumb_url":  "/logos/thumb/missing.png"
+                                    },
+                        "created_at":  "2013-11-22T11:46:25.000Z",
+                        "published":  false,
+                        "published_at":  "2013-11-22T11:46:25.000Z",
+                        "address":  null,
+                        "city":  null,
+                        "state_code":  null,
+                        "zip":  null,
+                        "country_code":  "US",
+                        "owners":  [
+                                       {
+                                           "id":  469620,
+                                           "position":  1,
+                                           "name":  "Marko Evans",
+                                           "email":  "marko@nowhiringu.com",
+                                           "phone":  "5617026602",
+                                           "user_id":  120891,
+                                           "avatar_thumb_url":  "https://s3.us-east-1.amazonaws.com/loxo-images-production/users/avatars/000/120/891/thumb/data.png?1571698406",
+                                           "avatar_original_url":  "https://s3.us-east-1.amazonaws.com/loxo-images-production/users/avatars/000/120/891/original/data?1571698406",
+                                           "job_owner_type_id":  15903
+                                       }
+                                   ],
+                        "contacts":  [
+                                         {
+                                             "id":  233317,
+                                             "position":  1,
+                                             "profile_picture_thumb_url":  "/profile_pictures/thumb/missing.png",
+                                             "name":  "Generic Contact",
+                                             "title":  "Generic Contact",
+                                             "person_id":  25153971,
+                                             "emails":  [
+
+                                                        ],
+                                             "phones":  [
+
+                                                        ],
+                                             "job_contact_type_id":  15904
+                                         }
+                                     ],
+                        "salary":  null,
+                        "salary_min":  null,
+                        "salary_max":  null,
+                        "salary_type_id":  1,
+                        "salary_currency_id":  1,
+                        "bonus":  null,
+                        "bonus_payment_type_id":  null,
+                        "bonus_type_id":  null,
+                        "equity":  null,
+                        "equity_percent":  null,
+                        "equity_type_id":  null,
+                        "job_type":  {
+                                         "id":  12740,
+                                         "name":  "Full Time"
+                                     },
+                        "status":  {
+                                       "id":  8990,
+                                       "name":  "Inactive"
+                                   },
+                        "categories":  [
+
+                                       ],
+                        "category":  null,
+                        "company_hidden":  true,
+                        "updated_at":  "2021-11-23T09:51:19.688Z",
+                        "public_url":  "https://app.loxo.co/job/NDEzNC05ZHp5eG9mdTJ0dnNxaHd3",
+                        "custom_text_1":  null,
+                        "filled_at":  null,
+                        "opened_at":  "2013-11-22T11:46:25.000Z",
+                        "published_end_date":  null,
+                        "remote_work_allowed":  false,
+                        "fee":  null,
+                        "fee_type_id":  null,
+                        "fee_currency_id":  null
+                    },
+                    {
+                        "id":  394352,
+                        "agency":  {
+                                       "id":  4134,
+                                       "name":  "Now Hiring You, LLC"
+                                   },
+                        "title":  "145",
+                        "published_name":  "",
+                        "macro_address":  "USA",
+                        "company":  {
+                                        "id":  16788417,
+                                        "name":  "Hyperion Development",
+                                        "hidden":  false,
+                                        "logo_large_url":  "/logos/large/missing.png",
+                                        "logo_thumb_url":  "/logos/thumb/missing.png"
+                                    },
+                        "created_at":  "2007-11-01T15:55:37.000Z",
+                        "published":  false,
+                        "published_at":  "2007-11-01T15:55:37.000Z",
+                        "address":  null,
+                        "city":  null,
+                        "state_code":  null,
+                        "zip":  null,
+                        "country_code":  "US",
+                        "owners":  [
+                                       {
+                                           "id":  469625,
+                                           "position":  1,
+                                           "name":  "Marko Evans",
+                                           "email":  "marko@nowhiringu.com",
+                                           "phone":  "5617026602",
+                                           "user_id":  120891,
+                                           "avatar_thumb_url":  "https://s3.us-east-1.amazonaws.com/loxo-images-production/users/avatars/000/120/891/thumb/data.png?1571698406",
+                                           "avatar_original_url":  "https://s3.us-east-1.amazonaws.com/loxo-images-production/users/avatars/000/120/891/original/data?1571698406",
+                                           "job_owner_type_id":  15903
+                                       }
+                                   ],
+                        "contacts":  [
+                                         {
+                                             "id":  233322,
+                                             "position":  1,
+                                             "profile_picture_thumb_url":  "/profile_pictures/thumb/missing.png",
+                                             "name":  "Raquel Galeano",
+                                             "title":  "N/A",
+                                             "person_id":  25144888,
+                                             "emails":  [
+                                                            {
+                                                                "id":  19435795,
+                                                                "value":  "rgaleano@hyperiondevelopment.com",
+                                                                "email_type_id":  27704
+                                                            }
+                                                        ],
+                                             "phones":  [
+
+                                                        ],
+                                             "job_contact_type_id":  15904
+                                         }
+                                     ],
+                        "salary":  null,
+                        "salary_min":  null,
+                        "salary_max":  null,
+                        "salary_type_id":  1,
+                        "salary_currency_id":  1,
+                        "bonus":  null,
+                        "bonus_payment_type_id":  null,
+                        "bonus_type_id":  null,
+                        "equity":  null,
+                        "equity_percent":  null,
+                        "equity_type_id":  null,
+                        "job_type":  {
+                                         "id":  12740,
+                                         "name":  "Full Time"
+                                     },
+                        "status":  {
+                                       "id":  8990,
+                                       "name":  "Inactive"
+                                   },
+                        "categories":  [
+
+                                       ],
+                        "category":  null,
+                        "company_hidden":  true,
+                        "updated_at":  "2021-11-23T09:51:20.193Z",
+                        "public_url":  "https://app.loxo.co/job/NDEzNC1mcHJ0d3FtczNvNG9rOTQ1",
+                        "custom_text_1":  null,
+                        "filled_at":  null,
+                        "opened_at":  "2007-11-01T15:55:37.000Z",
+                        "published_end_date":  null,
+                        "remote_work_allowed":  false,
+                        "fee":  null,
+                        "fee_type_id":  null,
+                        "fee_currency_id":  null
+                    }
+                ]
+}
